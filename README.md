@@ -13,7 +13,7 @@ La finalidad de este repositorio es almacenar virtualmente mi proyecto. Un repos
 
 ---
 
-![Imagen]("C:\Users\nicol\IIN_Practica3\imagen.png")
+[![imagen.png](https://i.postimg.cc/MZLx9myS/imagen.png)](https://postimg.cc/fkY6LX22)
 
 # Autor
 
@@ -26,5 +26,6 @@ La finalidad de este repositorio es almacenar virtualmente mi proyecto. Un repos
 Estudiante de GITAV y GARD en Universidad San Pablo CEU (Madrid)
 ### Edad
 - 18
-
-![Gif]("C:\Users\nicol\IIN_Practica3\gif.gif")
+---
+### FIN
+[![gif.gif](https://i.postimg.cc/HxxD2rnn/gif.gif)](https://postimg.cc/Z91MYKrz)
