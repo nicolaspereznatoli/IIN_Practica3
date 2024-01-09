@@ -25,6 +25,6 @@ La finalidad de este repositorio es almacenar virtualmente mi proyecto. Un repos
 ### Estudios
 Estudiante de GITAV y GARD en Universidad San Pablo CEU (Madrid)
 ### Edad
-18 
+- 18
 
 ![Gif]("C:\Users\nicol\IIN_Practica3\gif.gif")
