@@ -9,7 +9,7 @@ La finalidad de este repositorio es almacenar virtualmente mi proyecto. Un repos
 
 `git status fichero1.txt`: *comprueba el estado de los ficheros*
 
-`git add fichero1.txt`: *añadir a un repositorio*
+`git add fichero1.txt`: *añadir fichero a un repositorio*
 
 ---
 
