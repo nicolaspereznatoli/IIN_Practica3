@@ -1,4 +1,4 @@
-
+![TheSimpsonsGIF](https://github.com/nicolaspereznatoli/IIN_Practica3/assets/152875643/77e01995-aacb-4560-b917-e19a6652aac1)
 # Descripción del proyecto
 
 La finalidad de este repositorio es almacenar virtualmente mi proyecto. Un repositorio permite, además, guardar versiones del código a las que puedes acceder cuando lo necesites. Tambien sirve para poder trabajar conjuntamente con otras personas, y para compartir el código con otras personas.
@@ -27,5 +27,6 @@ Estudiante de GITAV y GARD en Universidad San Pablo CEU (Madrid)
 ### Edad
 - 18
 ---
-### FIN
+### 👋 FIN
+
 [![gif.gif](https://i.postimg.cc/HxxD2rnn/gif.gif)](https://postimg.cc/Z91MYKrz)
